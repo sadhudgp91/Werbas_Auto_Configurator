@@ -1,0 +1,8 @@
+D:\Azim\DotNet2005\C#\SchemaValidator\SchemaValidator\bin\Release\SchemaValidator.exe
+D:\Azim\DotNet2005\C#\SchemaValidator\SchemaValidator\bin\Release\SchemaValidator.pdb
+D:\Azim\DotNet2005\C#\SchemaValidator\SchemaValidator\obj\Release\ResolveAssemblyReference.cache
+D:\Azim\DotNet2005\C#\SchemaValidator\SchemaValidator\obj\Release\SchemaValidator.Form1.resources
+D:\Azim\DotNet2005\C#\SchemaValidator\SchemaValidator\obj\Release\SchemaValidator.Properties.Resources.resources
+D:\Azim\DotNet2005\C#\SchemaValidator\SchemaValidator\obj\Release\SchemaValidator.csproj.GenerateResource.Cache
+D:\Azim\DotNet2005\C#\SchemaValidator\SchemaValidator\obj\Release\SchemaValidator.exe
+D:\Azim\DotNet2005\C#\SchemaValidator\SchemaValidator\obj\Release\SchemaValidator.pdb

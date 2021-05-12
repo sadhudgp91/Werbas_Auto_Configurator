@@ -1,0 +1,9 @@
+C:\Users\sadhu\Downloads\schema\SchemaValidator\bin\Debug\SchemaValidator.exe
+C:\Users\sadhu\Downloads\schema\SchemaValidator\bin\Debug\SchemaValidator.pdb
+C:\Users\sadhu\Downloads\schema\SchemaValidator\obj\Debug\SchemaValidator.csprojAssemblyReference.cache
+C:\Users\sadhu\Downloads\schema\SchemaValidator\obj\Debug\SchemaValidator.Properties.Resources.resources
+C:\Users\sadhu\Downloads\schema\SchemaValidator\obj\Debug\SchemaValidator.csproj.GenerateResource.cache
+C:\Users\sadhu\Downloads\schema\SchemaValidator\obj\Debug\SchemaValidator.csproj.CoreCompileInputs.cache
+C:\Users\sadhu\Downloads\schema\SchemaValidator\obj\Debug\SchemaValidator.exe
+C:\Users\sadhu\Downloads\schema\SchemaValidator\obj\Debug\SchemaValidator.pdb
+C:\Users\sadhu\Downloads\schema\SchemaValidator\obj\Debug\SchemaValidator.ValidateSchema.resources
